@@ -38,13 +38,6 @@
 
 ---
 
-<!-- Section: Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahajkhandelwal1&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 <!-- Section: Tech Stack -->
 <div align="center">
 
