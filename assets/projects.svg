@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 680">
+  <defs>
+    <style>
+      .t { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="680" rx="10" fill="#1a1b27"/>
+
+  <!-- Title bar -->
+  <rect width="860" height="36" rx="10" fill="#24283b"/>
+  <rect y="26" width="860" height="10" fill="#24283b"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="5.5" fill="#f7768e"/>
+  <circle cx="42" cy="18" r="5.5" fill="#ff9e64"/>
+  <circle cx="62" cy="18" r="5.5" fill="#9ece6a"/>
+
+  <!-- Title bar label -->
+  <text x="430" y="23" class="t" fill="#565f89" text-anchor="middle" font-size="12">projects — zsh</text>
+
+  <!-- Separator -->
+  <line x1="0" y1="36" x2="860" y2="36" stroke="#414868" stroke-width="0.5"/>
+
+  <!-- $ ls ~/projects/ -->
+  <text x="20" y="76" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#7aa2f7"> ls -la </tspan><tspan fill="#7dcfff">~/projects/</tspan></text>
+
+  <!-- ── Spotify Flight Visuals ── -->
+  <rect x="18" y="94" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="118" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">spotify-flight-visuals/</tspan></text>
+  <text x="32" y="140" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> 3D galaxy of your Spotify history — Three.js + sonic clustering</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[TypeScript]</tspan></text>
+
+  <!-- ── NetPulse ── -->
+  <rect x="18" y="162" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="186" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">netpulse/</tspan></text>
+  <text x="32" y="208" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> Native macOS network monitor — device map, timeline, BPF scanning</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[Swift]</tspan></text>
+
+  <!-- ── CAPR ── -->
+  <rect x="18" y="230" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="254" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">CAPR-Project/</tspan></text>
+  <text x="32" y="276" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> Crime-aware pedestrian routing via Pareto-optimal pathfinding</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[Python]</tspan></text>
+
+  <!-- ── Neural Handwriting LaTeX ── -->
+  <rect x="18" y="298" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="322" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">neural-handwriting-latex/</tspan></text>
+  <text x="32" y="344" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> Handwritten math to typeset PDF — GPT-4o vision + pdflatex</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[Python]</tspan></text>
+
+  <!-- ── Canvas Calculator ── -->
+  <rect x="18" y="366" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="390" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">Canvas-Calculator/</tspan></text>
+  <text x="32" y="412" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> Grade dashboard for Canvas LMS — what-if scenario modeling</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[React, Flask]</tspan></text>
+
+  <!-- ── Verdant ── -->
+  <rect x="18" y="434" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="458" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">verdant/</tspan><tspan fill="#565f89">  (Mountain-Hacks)</tspan></text>
+  <text x="32" y="480" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> Chrome ext — grow a forest while you focus, wildfires if you don't</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[TypeScript]</tspan></text>
+
+  <!-- ── Bungee Drop Sim ── -->
+  <rect x="18" y="502" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="526" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">bungee-drop-simulator/</tspan></text>
+  <text x="32" y="548" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> SciOly 2026 — calibration + print-ready lookup tables</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[HTML, JS]</tspan></text>
+
+  <!-- ── Pharos ── -->
+  <rect x="18" y="570" width="824" height="56" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+  <text x="32" y="594" class="t" xml:space="preserve"><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7aa2f7">pharos/</tspan><tspan fill="#565f89">  (LgHacks2.0)</tspan></text>
+  <text x="32" y="616" class="t" xml:space="preserve"><tspan fill="#565f89">           </tspan><tspan fill="#7dcfff">&#x2192;</tspan><tspan fill="#c0caf5"> AI safe-route planner — XGBoost on crime data + Mapbox</tspan><tspan fill="#565f89">  </tspan><tspan fill="#ff9e64">[Python]</tspan></text>
+
+  <!-- $ _ -->
+  <text x="20" y="660" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#565f89">8 projects, 0 hidden</tspan></text>
+</svg>
