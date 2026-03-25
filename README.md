@@ -90,6 +90,9 @@ $ cat tech_stack.txt
 $ ls ~/projects/
 ```
 
+</div>
+
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
