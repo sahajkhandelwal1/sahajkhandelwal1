@@ -92,12 +92,7 @@ $ cat tech_stack.txt
 
 <!-- Section: Connect -->
 
-```bash
-$ cat contacts.txt
-  [+] LinkedIn  --> https://linkedin.com/in/sahajkhandelwal1
-  [+] GitHub    --> https://github.com/sahajkhandelwal1
-  [+] Email     --> sahajkhandelwal2@gmail.com
-```
+<img src="./assets/contacts.svg" width="100%" alt="Contacts" />
 
 <p align="center">
   <a href="https://linkedin.com/in/sahajkhandelwal1">
