@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 620">
+  <defs>
+    <style>
+      .t { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13px; }
+      .blink { animation: blink 1.2s step-end infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="620" rx="10" fill="#1a1b27"/>
+
+  <!-- Title bar -->
+  <rect width="860" height="36" rx="10" fill="#24283b"/>
+  <rect y="26" width="860" height="10" fill="#24283b"/>
+
+  <!-- Traffic lights -->
+  <circle cx="22" cy="18" r="5.5" fill="#f7768e"/>
+  <circle cx="42" cy="18" r="5.5" fill="#ff9e64"/>
+  <circle cx="62" cy="18" r="5.5" fill="#9ece6a"/>
+
+  <!-- Title bar label -->
+  <text x="430" y="23" class="t" fill="#565f89" text-anchor="middle" font-size="12">sahajkhandelwal1 — zsh</text>
+
+  <!-- Separator -->
+  <line x1="0" y1="36" x2="860" y2="36" stroke="#414868" stroke-width="0.5"/>
+
+  <!-- Inner info box -->
+  <rect x="18" y="48" width="824" height="78" rx="5" fill="#24283b" stroke="#414868" stroke-width="1"/>
+
+  <!-- Box row 1: user@host -->
+  <text x="32" y="74" class="t" xml:space="preserve"><tspan fill="#7aa2f7">sahajkhandelwal1</tspan><tspan fill="#565f89">@</tspan><tspan fill="#9ece6a">github</tspan><tspan fill="#565f89">:~  </tspan><tspan fill="#9ece6a">&#x2726; CONNECTED</tspan></text>
+
+  <!-- Box row 2: kernel / shell -->
+  <text x="32" y="99" class="t" xml:space="preserve"><tspan fill="#565f89">Kernel: </tspan><tspan fill="#c0caf5">Full-Stack Developer</tspan><tspan fill="#565f89">  &#xB7;  Shell: </tspan><tspan fill="#c0caf5">zsh</tspan></text>
+
+  <!-- ─────────────────────────────────── -->
+  <!-- $ whoami -->
+  <text x="20" y="152" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#7aa2f7"> whoami</tspan></text>
+
+  <!-- > Sahaj Khandelwal -->
+  <text x="20" y="174" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Sahaj Khandelwal</tspan></text>
+
+  <!-- > Full-Stack Developer & Startup Builder -->
+  <text x="20" y="196" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Full-Stack Developer </tspan><tspan fill="#565f89">&amp;</tspan><tspan fill="#c0caf5"> Startup Builder</tspan></text>
+
+  <!-- $ cat about.txt -->
+  <text x="20" y="240" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#7aa2f7"> cat </tspan><tspan fill="#ff9e64">about.txt</tspan></text>
+
+  <!-- > Building side projects -->
+  <text x="20" y="262" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Building side projects and startups from 0 to 1</tspan></text>
+
+  <!-- > Primary language -->
+  <text x="20" y="284" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Primary language: </tspan><tspan fill="#9ece6a">Python</tspan></text>
+
+  <!-- > Currently -->
+  <text x="20" y="306" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Currently: Deep in the build &#x2014; shipping fast</tspan></text>
+
+  <!-- > Status -->
+  <text x="20" y="328" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">&gt;</tspan><tspan fill="#c0caf5"> Status: </tspan><tspan fill="#f7768e">[OPEN TO COLLABS &amp; INTERESTING PROBLEMS]</tspan></text>
+
+  <!-- $ ls -la skills/ -->
+  <text x="20" y="372" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#7aa2f7"> ls -la </tspan><tspan fill="#7dcfff">skills/</tspan></text>
+
+  <!-- drwxr-xr-x  backend/ -->
+  <text x="20" y="394" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">backend/</tspan><tspan fill="#c0caf5">     </tspan><tspan fill="#ff9e64">[Python, FastAPI, Django, Node.js, Express]</tspan></text>
+
+  <!-- drwxr-xr-x  frontend/ -->
+  <text x="20" y="416" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">frontend/</tspan><tspan fill="#c0caf5">    </tspan><tspan fill="#ff9e64">[React, Next.js, TypeScript, TailwindCSS]</tspan></text>
+
+  <!-- drwxr-xr-x  databases/ -->
+  <text x="20" y="438" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">databases/</tspan><tspan fill="#c0caf5">   </tspan><tspan fill="#ff9e64">[PostgreSQL, MongoDB, Redis]</tspan></text>
+
+  <!-- drwxr-xr-x  devops/ -->
+  <text x="20" y="460" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">devops/</tspan><tspan fill="#c0caf5">      </tspan><tspan fill="#ff9e64">[Docker, GitHub Actions, AWS, Linux]</tspan></text>
+
+  <!-- drwxr-xr-x  tools/ -->
+  <text x="20" y="482" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#9ece6a">drwxr-xr-x</tspan><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">tools/</tspan><tspan fill="#c0caf5">       </tspan><tspan fill="#ff9e64">[Git, REST APIs, Figma, VS Code]</tspan></text>
+
+  <!-- $ ping linkedin.com -->
+  <text x="20" y="526" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#7aa2f7"> ping </tspan><tspan fill="#ff9e64">linkedin.com</tspan></text>
+
+  <!-- PING response -->
+  <text x="20" y="548" class="t" xml:space="preserve"><tspan fill="#c0caf5">  </tspan><tspan fill="#7dcfff">PING</tspan><tspan fill="#565f89"> linkedin.com &#x2192; </tspan><tspan fill="#9ece6a">linkedin.com/in/sahajkhandelwal1</tspan></text>
+
+  <!-- $ _ blinking cursor -->
+  <text x="20" y="592" class="t" xml:space="preserve"><tspan fill="#bb9af7">$</tspan><tspan fill="#c0caf5"> </tspan><tspan fill="#c0caf5" class="blink">&#x2587;</tspan></text>
+</svg>

@@ -8,34 +8,7 @@
 
 ---
 
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│              sahajkhandelwal1@github:~ [CONNECTED]          │
-│              Kernel: Full-Stack Developer  Shell: zsh        │
-└─────────────────────────────────────────────────────────────┘
-
-$ whoami
-  > Sahaj Khandelwal
-  > Full-Stack Developer & Startup Builder
-
-$ cat about.txt
-  > Building side projects and startups from 0 to 1
-  > Primary language: Python
-  > Currently: Deep in the build — shipping fast
-  > Status: [OPEN TO COLLABS & INTERESTING PROBLEMS]
-
-$ ls -la skills/
-  drwxr-xr-x  backend/     [Python, FastAPI, Django, Node.js, Express]
-  drwxr-xr-x  frontend/    [React, Next.js, TypeScript, TailwindCSS]
-  drwxr-xr-x  databases/   [PostgreSQL, MongoDB, Redis]
-  drwxr-xr-x  devops/      [Docker, GitHub Actions, AWS, Linux]
-  drwxr-xr-x  tools/       [Git, REST APIs, Figma, VS Code]
-
-$ ping linkedin.com
-  PING linkedin.com → replace with your LinkedIn URL
-
-$ _
-```
+<img src="./assets/terminal.svg" width="100%" alt="Terminal" />
 
 ---
 
