@@ -121,13 +121,13 @@ $ cat tech_stack.txt
 
 ```bash
 $ cat contacts.txt
-  [+] LinkedIn  --> https://linkedin.com/in/YOUR-LINKEDIN-HANDLE
+  [+] LinkedIn  --> https://linkedin.com/in/sahajkhandelwal1
   [+] GitHub    --> https://github.com/sahajkhandelwal1
-  [+] Email     --> your@email.com
+  [+] Email     --> sahajkhandelwal2@gmail.com
 ```
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/sahajkhandelwal1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
