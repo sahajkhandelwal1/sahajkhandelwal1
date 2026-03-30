@@ -12,18 +12,6 @@
 
 ---
 
-<!-- Section: GitHub Stats -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahajkhandelwal1&theme=tokyonight" width="100%" alt="Profile Summary" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahajkhandelwal1&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahajkhandelwal1&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahajkhandelwal1&theme=tokyonight" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahajkhandelwal1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-
----
 
 <!-- Section: Activity Graph -->
 <div align="center">
