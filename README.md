@@ -14,19 +14,13 @@
 
 <!-- Section: GitHub Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sahajkhandelwal1&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=sahajkhandelwal1&theme=tokyonight-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahajkhandelwal1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahajkhandelwal1&theme=tokyonight" width="100%" alt="Profile Summary" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahajkhandelwal1&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahajkhandelwal1&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahajkhandelwal1&theme=tokyonight" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahajkhandelwal1&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
